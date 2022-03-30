@@ -5,7 +5,7 @@
 }
 
 span {
-    color: rgb(228, 74, 74);
+    color: rgb(255, 255, 255);
 }
 
 .span-2 {
@@ -350,7 +350,7 @@ section {
 }
 
 .alu-lin {
-    background: linear-gradient(#662d91, #8a3db6, #DDA0DD);
+    background: linear-gradient(#ba3030, 	#ce2525, #ec1c1c);
     color: white;
     border-radius: 15px;
     margin: 30px 30px 20px 30px;
