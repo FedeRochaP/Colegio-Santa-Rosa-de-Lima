@@ -10,11 +10,17 @@ span {
 
 .span-2 {
     color: white !important;
+    /* opacity: 0;
+    transition: 1.5s; */
 }
+
+/* .span-2:hover {
+    opacity: 1;
+} */
 
 h1{
     margin: 30px 0;
-    text-shadow: 1px 1px 2px rgb(124, 35, 35);;
+    text-shadow: 1px 1px 2px rgb(124, 35, 35);
 }
 
 .label-h1 {
@@ -26,7 +32,12 @@ h1{
     padding: 10px 0;
     border-end-end-radius: 20px;
     border-top-right-radius: 20px;
+    /* transition: 1s; */
 }
+
+/* .label-h1:hover {
+    width: 55%;
+} */
 
 .h1-style {
     text-align: start; 
@@ -350,7 +361,7 @@ section {
 }
 
 .alu-lin {
-    background: linear-gradient(#ba3030, 	#ce2525, #ec1c1c);
+    background: linear-gradient(#662d91, #8a3db6, #DDA0DD);
     color: white;
     border-radius: 15px;
     margin: 30px 30px 20px 30px;
@@ -508,7 +519,7 @@ footer {
     }
 
     header ul {
-        display: none;
+        display: block;
     }
 
     header nav {
