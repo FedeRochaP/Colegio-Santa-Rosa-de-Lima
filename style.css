@@ -519,7 +519,7 @@ footer {
     }
 
     header ul {
-        display: block;
+        display: none;
     }
 
     header nav {
