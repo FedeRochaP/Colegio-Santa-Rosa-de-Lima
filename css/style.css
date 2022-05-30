@@ -468,6 +468,10 @@ footer {
     flex-wrap: wrap;
 }
 
+footer img {
+    width: 200px;
+}
+
 @media screen and (max-width: 1700px) {
     .niveles {
         flex-wrap: wrap;
